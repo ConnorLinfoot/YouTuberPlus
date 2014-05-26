@@ -1,0 +1,16 @@
+# Default Configuration File For YouTuber Plus Plugin
+# For support on config visit the link below
+# http://dev.bukkit.org/bukkit-plugins/youtuber-plus/pages/configuration/
+#
+#########################################################################
+
+LocalMode: false
+RunCommand: true
+Command: gamemode c <playername>
+TwitchCommand: kick <playername>
+Subs: 500
+Followers: 500
+Prefix: "[YouTuber Plus]"
+recordingPlayers: []
+YouTubers: []
+Streamers: []

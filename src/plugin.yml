@@ -1,0 +1,40 @@
+name: YouTuber Plus
+description: The plugin you can use to allow YouTubers more fun on your server!
+main: com.connorlinfoot.youtuberplus.YouTuberPlus
+version: 0.3
+commands:
+  subs:
+    description: Gets the amount of subscribers from YouTube for a given user
+  followers:
+    description: Gets the amount of followers from Twitch for a given user
+  rankup:
+    description: Checks subs of the current user and ranks up if requirement is met
+  link:
+    description: Gives the player a URL to visit to link their YouTube account
+  record:
+    description: Tell people you are recording
+  yt:
+    description: Plugin command
+  youtuber:
+    description: Alias of /yt
+  youtube:
+    description: Alias of /yt
+permissions:
+  ytplus.record:
+    description: Tell people you are recording
+    default: op
+  ytplus.subs:
+    description: Gets the amount of subscribers from YouTube for a given user
+    default: op
+  ytplus.followers:
+    description: Gets the amount of followers from Twitch for a given user
+    default: op
+  ytplus.link:
+    description: Gives the player a URL to visit to link their YouTube account
+    default: true
+  ytplus.rankup:
+    description: Checks subs of the current user and ranks up if requirement is met
+    default: true
+  ytplus.admin.reload:
+    description: Reloads the plugin
+    default: op

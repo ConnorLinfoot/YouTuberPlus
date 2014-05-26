@@ -1,0 +1,13 @@
+# DO NOT EDIT THESE FILES AS THEY ARE UPDATED ON PLUGIN UPDATES!
+
+US-TITLE: "=== YouTuber Plus Beta ==="
+US-HELP: "Use /yt help"
+US-HELP-1: "/record - Show your recording!"
+US-HELP-2: "/subs <YT User> - Get amount of subscribers for a channel!"
+US-HELP-3: "/followers <Twitch User> - Get amount of followers for a channel!"
+US-HELP-4: "/rankup <YouTube/Twitch> - Attempt to rank up as a YouTuber or Streamer!"
+US-HELP-5: "/link <YouTube/Twitch> <Username> - Link to a YouTube or Twitch account!"
+US-HELP-6: "/yt help - Shows this screen!"
+US-HELP-7: "/yt reload - Reloads the config!"
+US-HELP-8: "/yt about - About the plugin!"
+US-HELP-9: "/yt whatsnew - Shows whats new in the latest update!"
